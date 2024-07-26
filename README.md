@@ -1,5 +1,7 @@
 # Dify-deployment
 
+![Alt text](./ECS.png)
+
 
 # ALB
 ```bash

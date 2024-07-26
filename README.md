@@ -1,4 +1,4 @@
-# Dify-deployment IN ECS FARGATE
+# Design Architecture for the self-hosted Dify Environment with AWS
 
 ![Alt text](./ECS.png)
 
